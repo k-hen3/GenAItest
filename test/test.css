@@ -1,0 +1,7 @@
+body {
+    background-color: #F2F2F2; /* 目に優しい色 */
+}
+.profile-image {
+    width: 100px;
+    height: 100px;
+}
